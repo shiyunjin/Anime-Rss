@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Server" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="AnimeRss" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="FILE" />
+    <filePath value="$PROJECT_DIR$/server.go" />
+    <package value="AnimeRss" />
+    <directory value="$PROJECT_DIR$/" />
+    <method v="2" />
+  </configuration>
+</component>
